@@ -122,3 +122,5 @@ It became an opportunity to understand how models learn, why they fail, and how 
 The most valuable lesson was not achieving high accuracy.
 
 It was learning how to identify overfitting, interpret model behavior, and make informed improvements based on evidence.
+
+Project completed as part of my AI Engineering learning journey.
