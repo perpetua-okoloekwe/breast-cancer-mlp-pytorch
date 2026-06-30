@@ -93,11 +93,12 @@ This suggested strong learning behavior and improved generalization to unseen da
 
 ## Training Curve
 
-The project includes a visualization of training and validation loss throughout the learning process.
+The figure below shows the training and validation loss during the improved model experiment.
 
-The loss curves demonstrate the impact of model architecture and regularization on generalization performance.
+The close alignment between both curves suggests healthy learning behavior and improved generalization, indicating that the model is learning meaningful patterns without severe overfitting.
 
----
+![Training and Validation Loss](training_validation_loss.png)
+
 
 ## Key Learnings
 
